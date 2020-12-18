@@ -4,6 +4,7 @@
 - DCGAN
 - LSTM
 - Translation+Attention
+- Transformer
 
 
 
